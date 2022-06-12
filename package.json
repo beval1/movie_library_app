@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-app": "^4.0.2",
+    "firebase": "^8.3.2"
+  }
+}
